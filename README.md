@@ -1,0 +1,2 @@
+# pruebaSMA
+Prueba seminario SMA
